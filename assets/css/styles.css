@@ -110,6 +110,10 @@ a {
     outline-offset: 2px;
 }
 
+.mail{
+    padding-right: 2%;
+}
+
 
 .link:hover {
     color: #76B900;
